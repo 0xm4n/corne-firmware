@@ -18,11 +18,9 @@ Corne View
 ## Quick Start
 
 1. Turn on both halves.
-2. Connect the left half to your computer over USB, or use it as the Bluetooth
-   half when pairing.
-3. For Bluetooth, hold the lower layer key and select a Bluetooth profile.
-4. Pair with `Corne View` from your computer, phone, or tablet.
-5. Start typing after both halves are powered on and connected to each other.
+2. Open Bluetooth settings on your computer, phone, or tablet.
+3. Pair with `Corne View`.
+4. Start typing after both halves are powered on and connected to each other.
 
 If anything behaves strangely, remove old `Corne View` Bluetooth entries from
 your host device, flash `settings_reset` to both halves, flash the normal
@@ -33,8 +31,6 @@ firmware again, and pair from a clean Bluetooth profile.
 ### Power
 
 If your Corne build has battery power switches, turn on both halves before use.
-For long-term storage, turn both halves off and charge the batteries before
-putting the keyboard away.
 
 This firmware enables ZMK sleep:
 
