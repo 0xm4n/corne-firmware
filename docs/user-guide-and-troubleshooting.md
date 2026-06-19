@@ -5,9 +5,9 @@ issues for this Corne wireless ZMK configuration.
 
 The firmware in this repository is built for:
 
-- `nice_nano_v2` with `corne_left`
-- `nice_nano_v2` with `corne_right`
-- `nice_nano_v2` with `settings_reset`
+- `nice_nano//zmk` with `corne_left`
+- `nice_nano//zmk` with `corne_right`
+- `nice_nano//zmk` with `settings_reset`
 
 The configured keyboard name is:
 

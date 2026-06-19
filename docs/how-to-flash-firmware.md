@@ -25,9 +25,9 @@ from GitHub Actions:
 
 This repository builds firmware for:
 
-- `corne_left` on `nice_nano_v2`
-- `corne_right` on `nice_nano_v2`
-- `settings_reset` on `nice_nano_v2`
+- `corne_left` on `nice_nano//zmk`
+- `corne_right` on `nice_nano//zmk`
+- `settings_reset` on `nice_nano//zmk`
 
 Use the left firmware for the left half and the right firmware for the right
 half. The settings reset firmware is optional and is only needed when you want
